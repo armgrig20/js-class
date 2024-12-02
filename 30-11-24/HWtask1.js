@@ -4,7 +4,7 @@
 // // Expected Output
 // 2 // Because the strings "react" and "redux" share the characters 'r' and 'e'
 
-const str1 = "reacr";
+const str1 = "react";
 const str2 = "redux";
 let commonCount = 0; 
 let checkedChars = '';
